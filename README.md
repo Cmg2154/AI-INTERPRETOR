@@ -24,4 +24,4 @@ venv\Scripts\activate          # On Windows
 
 pip install tensorflow pillow matplotlib opencv-python
 
-python train.py
+python run_inference.py
